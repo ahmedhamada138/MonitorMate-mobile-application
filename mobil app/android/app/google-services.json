@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27930573848",
+    "project_id": "monitormate-a5f4c",
+    "storage_bucket": "monitormate-a5f4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27930573848:android:7c7ed6e9037bf92ad8d76d",
+        "android_client_info": {
+          "package_name": "com.example.icumonitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANhDUVNXnhxRoef-eUCBLE-hIyVW58qJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
